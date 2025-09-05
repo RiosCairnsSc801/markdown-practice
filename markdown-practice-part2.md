@@ -20,4 +20,4 @@
 </html>
 ```
 [Learn about web design on the MDN site.](https://developer.mozilla.org/en-US/)
-![Earth from Space](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Earth_from_Space.jpg/800px-Earth_from_Space.jpg)
+![Earth from Space](Earth_from_Space.jpg)
