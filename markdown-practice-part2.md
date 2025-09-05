@@ -1,9 +1,9 @@
 ## Scotland Rios Cairns
 ### PM Web
 ---
-1.Markdown files are easily accessible to any text editor due to utilizing plain text over rich text.
-2.The markdown format is simple, easy to learn, and doesn't have complicated syntax.
-3.It's easy to share text written in markdown files, as it doesn't require reading through tags in the same way that it would if HTML is used instead.
+1. Markdown files are easily accessible to any text editor due to utilizing plain text over rich text.
+2. The markdown format is simple, easy to learn, and doesn't have complicated syntax.
+3. It's easy to share text written in markdown files, as it doesn't require reading through tags in the same way that it would if HTML is used instead.
 ```
 <!DOCTYPE html>
 <html lang="en">
